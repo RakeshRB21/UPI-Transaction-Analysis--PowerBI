@@ -1,4 +1,4 @@
-# UPI Transaction Analysis
+![Screenshot 2024-11-09 005644](https://github.com/user-attachments/assets/554d50b9-8c73-4abf-a200-427c00bf7f81)# UPI Transaction Analysis
 
 This project analyzes UPI (Unified Payments Interface) transaction data to gain insights into transaction trends over time. Visualizations were created in Power BI to provide an interactive and informative overview of transaction behaviors across various dimensions, including month, bank names, gender, payment method, and more.
 
@@ -21,6 +21,13 @@ The dataset for this analysis is sourced from a CSV file containing UPI transact
 - `Purpose`: The purpose of the transaction.
 - `TransactionAmount`: The amount transacted.
 - `Balance`: Remaining balance after the transaction.
+  
+##Dashboard Images
+
+![Screenshot 2024-11-09 005634](https://github.com/user-attachments/assets/bf4009c2-dc28-4aa1-b7a9-6c55b43140d0)
+![Screenshot 2024-11-09 005654](https://github.com/user-attachments/assets/5a34b4f9-b51a-4a06-bdf0-c9c9bbba9fa2)
+![Screenshot 2024-11-09 005858](https://github.com/user-attachments/assets/da04fe64-f1ac-41e3-9f74-7340eb6442c6)
+![Screenshot 2024-11-09 005944](https://github.com/user-attachments/assets/7543376e-a1ed-4e85-8875-9d1a9e1eefd6)
 
 ## Dashboard Overview
 
